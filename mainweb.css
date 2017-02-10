@@ -352,7 +352,7 @@ html,body{height:100%;font-family: 'Open Sans', sans-serif;}
 
 /* ------------- contact us  ------------------------------- */
 
-.contact-us{background:#ededef url(../images/contact-us.png) no-repeat;float:left;width:100%; padding:90px 0 50px; background-size:cover;overflow: hidden;}
+.contact-us{background:#ededef url(../images/contact-us.png) no-repeat;float:left;width:100%; padding:0px 0 50px; background-size:cover;overflow: hidden;}
 
 .contact-us .contact-heading{display:block;float:left;padding:0 0 30px;width:100%;}
 
