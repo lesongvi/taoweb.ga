@@ -70,7 +70,7 @@ author: LSVG Technical Members
 
 html,body{height:100%;font-family: 'Open Sans', sans-serif;}
 
-.home-stand{min-height:100%; float:left; width:100%; padding:40px 0;background-color: #ededef; display:block}
+.home-stand{min-height:0%; float:left; width:100%; padding:40px 0;background-color: #ededef; display:block}
 
 .navbar-header {width: 100%;}
 
